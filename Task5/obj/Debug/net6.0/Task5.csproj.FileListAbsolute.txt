@@ -1,0 +1,5 @@
+D:\Visual Studio Code\C#\HW_from_Seminar#8\Task5\obj\Debug\net6.0\Task5.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\HW_from_Seminar#8\Task5\obj\Debug\net6.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code\C#\HW_from_Seminar#8\Task5\obj\Debug\net6.0\Task5.AssemblyInfoInputs.cache
+D:\Visual Studio Code\C#\HW_from_Seminar#8\Task5\obj\Debug\net6.0\Task5.AssemblyInfo.cs
+D:\Visual Studio Code\C#\HW_from_Seminar#8\Task5\obj\Debug\net6.0\Task5.csproj.CoreCompileInputs.cache
